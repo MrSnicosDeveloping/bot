@@ -1,4 +1,4 @@
-# [Nome del Bot] - Terms of Service & Privacy Policy
+# Terms of Service & Privacy Policy
 
 ## Terms of Service
 
