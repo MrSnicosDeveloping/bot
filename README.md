@@ -19,7 +19,7 @@ Grazie per aver scelto di utilizzare il bot. Utilizzando il bot, accetti implici
    Ci riserviamo il diritto di aggiornare o modificare questi Termini in qualsiasi momento. Ti incoraggiamo a consultare regolarmente questa pagina per eventuali aggiornamenti.  
 
 5. **Contatti**  
-   Per domande o chiarimenti sui Termini di Servizio, puoi contattarci all'indirizzo [email o altro metodo di contatto].  
+   Per domande o chiarimenti sui Termini di Servizio, puoi contattarci all'indirizzo [Discord: "@mrsnicos", EMAIL: "contattaci.mrsnicosbot@gmail.com"].  
 
 ---
 
